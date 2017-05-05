@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="DigitalMaze.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FirstPersonController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FirstPersonController.cs" Line="57" Column="24" />
+      <File FileName="..\GameJam\RecreationGameJam\Assets\scripts\timerScript.cs" Line="26" Column="12" />
+      <File FileName="Assets\Scripts\ButtonLink.cs" Line="17" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
